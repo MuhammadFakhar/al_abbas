@@ -1,7 +1,0 @@
-{
-  "root": "assets",
-  "clean_urls": false,
-  "routes": {
-    "/**": "index.html"
-  }
-}
